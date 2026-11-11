@@ -1,6 +1,6 @@
 # Jacopo Cesari
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-link-linkedin/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcesari/) 
 
 ## 🇬🇧 Hi, I'm Jacopo 👋
 
