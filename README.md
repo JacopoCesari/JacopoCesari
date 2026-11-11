@@ -1,27 +1,21 @@
-# Jacopo Cesari – Data Science & Statistical Analysis
+# Jacopo Cesari
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-link-linkedin/) 
+
+## 🇬🇧 Hi, I'm Jacopo 👋
+
+I'm a Statistics student at the University of Bologna. I use this GitHub mainly as a personal archive for my university and side projects in data analysis, machine learning, and statistics. 
+
+Here you'll find code related to predictive modeling, clustering, and database management, written primarily in **Python, R, and SQL**, alongside some data visualization work using **Power BI**. 
+
+Feel free to look around!
 
 ---
 
-## Welcome to my GitHub! 👋
+## 🇮🇹 Ciao, sono Jacopo 👋
 
-I am a **Statistics student** at the **University of Bologna**, passionate about **data science, machine learning, and statistical analysis**.  
-My projects focus on **data-driven problem-solving**, covering areas such as **predictive modeling, clustering, database management, and data visualization**.
+Studio Scienze Statistiche all'Università di Bologna. Uso questo profilo GitHub principalmente come archivio personale per i miei progetti universitari e di analisi dati, machine learning e statistica. 
 
-## 🔍 About Me
+Qui troverai codice legato a modelli predittivi, clustering e gestione database, scritto per lo più in **Python, R e SQL**, oltre a qualche progetto di data visualization.
 
-I enjoy working with **Python, R, SQL, and visualization tools like Power BI, Datawrapper, and Canva**, and I am always looking for opportunities to apply my analytical skills to **real-world challenges**.
-
-Feel free to explore my repositories and reach out for collaboration!
-
----
-
-## Benvenuto nel mio GitHub! 👋
-
-Sono uno studente di Scienze Statistiche presso l'Università di Bologna, appassionato di **data science, machine learning e analisi statistica**.  
-I miei progetti si concentrano sulla risoluzione di problemi basata sui dati, coprendo ambiti come **modelli predittivi, clustering, gestione di database e visualizzazione dei dati**.
-
-## 🔍 Chi sono
-
-Mi piace lavorare con **Python, R, SQL e strumenti di visualizzazione come Power BI, Datawrapper e Canva** e sono sempre alla ricerca di opportunità per applicare le mie competenze analitiche a sfide del mondo reale.
-
-Esplora liberamente i miei repository e non esitare a contattarmi per collaborazioni!
+Sentiti libero di curiosare tra le repository!
