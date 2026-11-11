@@ -1,7 +1,3 @@
-# Jacopo Cesari
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcesari/) 
-
 ## 🇬🇧 Hi, I'm Jacopo 👋
 
 I'm a Statistics student at the University of Bologna. I use this GitHub mainly as a personal archive for my university and side projects in data analysis, machine learning, and statistics. 
